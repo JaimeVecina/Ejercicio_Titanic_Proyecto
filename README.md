@@ -1,6 +1,6 @@
 # Ejercicio sobre los datos del Titanic
 
-![Titanic Imagen](Titanic Imagen.png)
+![Titanic_Imagen](Titanic_Imagen.png)
 
 Este repositorio se basa en un ejercicio libre para medir nuestros conocimientos adquiridos en el primer módulo del Bootcamp de Upgrade Hub. El conjunto de datos sobre el que estamos trabajando es el de Titanic.
 
